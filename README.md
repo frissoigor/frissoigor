@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, React Native**
 
-- 💬 Ask me about **Linux penguin**
+- 💬 Ask me about **Linux*
 
 - 📫 How to reach me **frissosilva@icloud.com**
 
