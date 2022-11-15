@@ -4,9 +4,7 @@
 
 - 🔭  I’m currently working on E&L Produções de Software Ltda
 
-- 🌱  I’m always studying **JavaScript, ReactJS**
-
-- 💬  Ask me about **Linux 🐧**
+- 🌱  I’m always studying **C#, .NET**
 
 - 🚀  How to reach me frissosilva@icloud.com
 
