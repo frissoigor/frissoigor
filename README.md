@@ -8,8 +8,6 @@
 
 - 🚀  How to reach me frissosilva@icloud.com
 
-- 😻 Fun fact: my dog answers every minute
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
